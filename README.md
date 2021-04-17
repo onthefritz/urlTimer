@@ -33,3 +33,5 @@ Now for the setup within OBS. From my experience I would recommened using a new 
 NOTE! If you are using some piece of software that can control visibility to sources within OBS you can use those to control the timers. 
 
 Don't like the alarm sound that goes off after the timer is up? No worries! You can create your own sound and add it to the same location as the other files. Just one *VERY* important note, it needs to be named "sound.mp3" which means it has to be an mp3 file and be named sound. 
+
+Don't want a sound? No worries. Just delete the sound.mp3 and you're good to go. 
